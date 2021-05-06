@@ -1,0 +1,12 @@
+{
+	"name": "infalliblecode.unity.multiplayer.mirror",
+	"version": "1.0.0",
+	"displayName": "Infallible Code — Mirror Multiplayer",
+	"description": "A multiplayer implementation using Mirror",
+	"unity": "2020.2",
+	"author": {
+		"name": "Charles Amat",
+		"email": "charles@infalliblecode.com",
+		"url": "http://infalliblecode.com"
+	}
+}
