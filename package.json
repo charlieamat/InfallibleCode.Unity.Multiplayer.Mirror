@@ -4,6 +4,9 @@
 	"displayName": "Infallible Code — Mirror Multiplayer",
 	"description": "A multiplayer implementation using Mirror",
 	"unity": "2020.2",
+	"dependencies": {
+		"infalliblecode.unity.multiplayer", "1.0.0"
+	},
 	"author": {
 		"name": "Charles Amat",
 		"email": "charles@infalliblecode.com",
