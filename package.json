@@ -5,7 +5,7 @@
 	"description": "A multiplayer implementation using Mirror",
 	"unity": "2020.2",
 	"dependencies": {
-		"infalliblecode.unity.multiplayer", "1.0.0"
+		"infalliblecode.unity.multiplayer", "https://github.com/infalliblecode/InfallibleCode.Unity.Multiplayer.git#1.0.0"
 	},
 	"author": {
 		"name": "Charles Amat",
