@@ -22,5 +22,11 @@ namespace InfallibleCode.Unity.Multiplayer.Mirror
         {
             _networkManager.StartHost();
         }
+
+        public override string networkAddress
+        {
+            get => _networkManager.networkAddress;
+            set => _networkManager.networkAddress = value;
+        }
     }
 }
